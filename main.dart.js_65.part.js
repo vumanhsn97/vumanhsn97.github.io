@@ -1,0 +1,30 @@
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_65",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,D,A,B={
+fAG(d){return"Er is slechts "+C.i(d)+"x zoeken naar afbeeldingen in de gratis versie."},
+fBP(d){return"Er kunnen maximaal "+C.i(d)+" berichten worden weergegeven in de gratis versie."},
+fD5(d){return"Vervaldatum abonnement "+C.i(d)},
+fEo(d){var x=null
+return"Genereren ("+C.i(d)+" "+C.fu(d,x,x,x,x,x,x,"time","times",x,x,x)+")"},
+f26(d){return C.f(["about_openai",A.b("Wat betreft"),"apply_openai",A.b("Van toepassing zijn"),"artist_openai",A.b("Artiest"),"cancel_openai",A.b("annuleren"),"chatDetail_openai",A.b("Chatdetails"),"chatGPT_openai",A.b("GPT chatten"),"chatWithBot_openai",A.b("Chatten met bot"),"chat_openai",A.b("babbelen"),"chooseArtist_openai",A.b("Kies artiest voor je afbeelding"),"chooseDetail_openai",A.b("Kies detail voor uw afbeelding"),"chooseMedium_openai",A.b("Kies medium voor je afbeelding"),"chooseMood_openai",A.b("Kies de stemming voor uw afbeelding"),"chooseUseCase_openai",A.b("Kies een use-case"),"choseStyle_openai",A.b("Kies stijl voor uw afbeelding"),"clearConfirm_openai",A.b("Weet u zeker dat u de inhoud wilt wissen?"),"clearContent_openai",A.b("Duidelijke inhoud"),"clearConversation_openai",A.b("Duidelijke conversatie"),"clear_openai",A.b("Duidelijk"),"confirmDeleteItem_openai",A.b("Weet u zeker dat u dit item wilt verwijderen?"),"confirmDelete_openai",A.b("Gelieve te bevestigen of u door wilt gaan met het verwijderen van dit item. U kunt deze actie niet ongedaan maken."),"confirmRemoveKey_openai",A.b("Weet u zeker dat u de sleutel wilt verwijderen?"),"confirm_openai",A.b("Bevestigen"),"copiedToClipboard_openai",A.b("Gekopieerde inhoud naar klembord"),"copy_openai",A.b("Kopi\xebren"),"createChatFailed_openai",A.b("Chat maken mislukt"),"deleteFailed_openai",A.b("Verwijderen is mislukt"),"delete_openai",A.b("Verwijder"),"detail_openai",A.b("Detail"),"download_openai",A.b("Download"),"edit_openai",A.b("BEWERK"),"failedToGenerate_openai",A.b("Kan niet genereren"),"generate_openai",A.b("voortbrengen"),"grid_openai",A.b("Rooster"),"imageGenerate_openai",A.b("Afbeelding genereren"),"imageSize_openai",A.b("Afbeeldingsgrootte"),"inputKey_openai",A.b("Invoersleutel"),"interest_openai",A.b("Interesseren"),"introAboutKey_openai",A.b("Uw API-sleutel wordt lokaal op uw mobiel opgeslagen en wordt nooit ergens anders naartoe gestuurd. U kunt uw sleutel opslaan om deze later te gebruiken. U kunt uw sleutel ook verwijderen als u deze niet meer wilt gebruiken."),"invalidKey_openai",A.b("Ongeldige sleutel"),"jobRole_openai",A.b("Taakomschrijving"),"jobSkills_openai",A.b("Baan vaardigheden"),"layoutStyle_openai",A.b("Layout-stijl"),"limitImage_openai",B.h8f(),"limitTheText_openai",B.h8g(),"listening_openai",A.b("Luisteren..."),"loadKeyFailed_openai",A.b("Sleutel laden mislukt"),"loadKeySuccess_openai",A.b("Laad sleutelsucces"),"manage_openai",A.b("Beheren"),"medium_openai",A.b("Medium"),"mood_openai",A.b("Humeur"),"moreOptions_openai",A.b("Meer opties"),"newChat_openai",A.b("Nieuw gesprek"),"noImageGenerate_openai",A.b("Er wordt geen afbeelding gegenereerd"),"numberOfImagesCondition_openai",A.b("Het aantal te genereren afbeeldingen. Moet tussen 1 en 10 zijn."),"numberOfImages_openai",A.b("Aantal afbeeldingen"),"options_openai",A.b("opties"),"page_openai",A.b("Pagina"),"pleaseCheckConnection_openai",A.b("Controleer je verbinding en probeer het opnieuw!"),"pleaseInputFillAllFields_openai",A.b("Vul alstublieft alle velden in"),"pleaseInputKey_openai",A.b("Voer de sleutel in"),"prompt_openai",A.b("snel"),"putKeyHere_openai",A.b("Leg hier uw sleutel neer"),"regenerateResponse_openai",A.b("Reactie opnieuw genereren"),"remaining_openai",A.b("overblijvende"),"removeKeyFailed_openai",A.b("Sleutel verwijderen mislukt"),"removeKeySuccess_openai",A.b("Sleutel succesvol verwijderd"),"remove_openai",A.b("Verwijderen"),"resetSettings_openai",A.b("Reset instellingen"),"reset_openai",A.b("Reset"),"saveKeyFailed_openai",A.b("Sleutel opslaan mislukt"),"saveKeySuccess_openai",A.b("Sleutel succesvol opgeslagen"),"saveKey_openai",A.b("Sleutel opslaan"),"save_openai",A.b("Opslaan"),"searchByPrompt_openai",A.b("Zoeken op prompt..."),"sectionKeywords_openai",A.b("Sectie Trefwoorden"),"sectionTopic_openai",A.b("Sectie onderwerp"),"selectChatFailed_openai",A.b("Selecteer Chat mislukt"),"selectPrompt_openai",A.b("Selecteer vragen"),"settings_openai",A.b("instellingen"),"share_openai",A.b("Delen"),"skills_openai",A.b("vaardigheden"),"somethingWentWrong_openai",A.b("Er is iets fout gegaan!!!"),"somethingWhenWrong_openai",A.b("Er is iets fout gegaan! Probeer het later opnieuw. Ontzettend bedankt!"),"speechNotAvailable_openai",A.b("Spraak niet beschikbaar"),"style_openai",A.b("Stijl"),"subscriptionExpiredDate_openai",B.h8h(),"tapTheMicToTalk_openai",A.b("Tik op de microfoon om te praten"),"textGenerate_openai",A.b("Tekst genereren"),"textGenerator_openai",A.b("Tekstgenerator"),"timeGenerate_openai",B.h8i(),"typeAMessage_openai",A.b("Type een bericht..."),"viewType_openai",A.b("Type weergave"),"view_openai",A.b("Uitzicht"),"write_openai",A.b("SCHRIJVEN")],y.g,y.a)},
+bwQ:function bwQ(d){this.a=d}}
+C=c[0]
+D=c[58]
+A=c[57]
+B=a.updateHolder(c[35],B)
+B.bwQ.prototype={
+gfV(){return"nl"},
+geX(){return this.a}}
+var z=a.updateTypes(["q(@)","a4<q,bk>(@)"]);(function installTearOffs(){var x=a._static_1
+x(B,"h8f","fAG",0)
+x(B,"h8g","fBP",0)
+x(B,"h8h","fD5",0)
+x(B,"h8i","fEo",0)
+x(B,"h8e","f26",1)})();(function inheritance(){var x=a.inherit
+x(B.bwQ,D.ct)})()
+C.fo(b.typeUniverse,JSON.parse('{"bwQ":{"ct":[]}}'))
+var y={a:C.a0("bk"),g:C.a0("q")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"hRV","fob",()=>new B.bwQ(B.f26(B.h8e())))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_65",e:"endPart",h:b})})($__dart_deferred_initializers__,"qotK6wxupvPjaKyUhr6nJbd+r0g=");
